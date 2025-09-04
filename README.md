@@ -59,6 +59,6 @@ Now, as a **Game Development student** at Full Sail University, I’m focused on
 
 ## ☕ Support My Work
 If you'd like to support my projects:
-- **Ethereum:** `0x0000000000000000000000000000000000000000`
-- **Bitcoin:** `bc1qexampleaddresshere`
+- **Litecoin:** `MEyK4EEAtuxaM5yBCMw7bsNCJ9tDsRGbnA`
+- **Bitcoin:** `3JtTavViyAYcVoajzcs1fRb5Br6q4ziPqG`
 - **Ko-fi:** [ko-fi.com/aspenxiv](https://ko-fi.com/aspenxiv)
