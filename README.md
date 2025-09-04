@@ -5,20 +5,9 @@
 ---
 
 ## ✨ About Me
-I’m a <span id="age"></span>-year-old **self-taught coder** with over **6 years of experience** learning and experimenting with **Lua**, **C#**, and **HTML/CSS** outside of schooling.  
+I’m a 27-year-old **self-taught coder** with over **6 years of experience** learning and experimenting with **Lua**, **C#**, and **HTML/CSS** outside of schooling.  
 My journey started as a hobby, scripting and building projects on Roblox and tinkering with small game prototypes.  
 Now, as a **Game Development student** at Full Sail University, I’m focused on learning new skills and turning my passion for software development into a career.
-
-<script>
-  const birthDate = new Date(1998, 7, 20);
-  const today = new Date();
-  let age = today.getFullYear() - birthDate.getFullYear();
-  const m = today.getMonth() - birthDate.getMonth();
-  if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
-    age--;
-  }
-  document.getElementById("age").innerText = age;
-</script>
 
 - 🎓 **Student** at Full Sail University — Game Development Program  
 - 🪖 **Veteran** of the U.S. Air Force with a **Network Management** background  
