@@ -5,29 +5,48 @@
 ---
 
 ## ✨ About Me
+I’m a <span id="age"></span>-year-old **self-taught coder** with over **6 years of experience** learning and experimenting with **Lua**, **C#**, and **HTML/CSS** outside of schooling.  
+My journey started as a hobby, scripting and building projects on Roblox and tinkering with small game prototypes.  
+Now, as a **Game Development student** at Full Sail University, I’m focused on learning new skills and turning my passion for software development into a career.
+
+<script>
+  const birthDate = new Date(1998, 7, 20);
+  const today = new Date();
+  let age = today.getFullYear() - birthDate.getFullYear();
+  const m = today.getMonth() - birthDate.getMonth();
+  if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+    age--;
+  }
+  document.getElementById("age").innerText = age;
+</script>
+
 - 🎓 **Student** at Full Sail University — Game Development Program  
 - 🪖 **Veteran** of the U.S. Air Force with a **Network Management** background  
 - 💻 Passionate about **software development**, **game design**, and **Roblox scripting**  
-- 🌱 Currently learning **Unity**, **C++**, **Lua**, and **MIPS Assembly**  
+- 🌱 Currently learning **Vulkan API**, **C++**, **Lua**, and **MIPS Assembly**  
 - 🐾 Just a silly puppy with big dreams in tech and game dev~  
 
 ---
 
 ## 🛠️ Tech & Skills
 ### **Languages & Tools**
-[![Languages](https://skillicons.dev/icons?i=cpp,cs,lua,py,js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,cs,lua,py,html,css)](https://skillicons.dev)
 [![Tools](https://skillicons.dev/icons?i=unity,visualstudio,github,vscode,blender,figma)](https://skillicons.dev)
 
 ---
 
 ## 📚 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=vhdl,linux,docker)](https://skillicons.dev)
-> Exploring **low-level programming** and **embedded systems** while building games and UI projects!
+[![Learning](https://skillicons.dev/icons?i=cpp,cs,lua,vhdl)](https://skillicons.dev)
+
+> **Focusing on**:  
+> 🎮 Game development with **Unity (C#)** and **C++**  
+> 🕹️ **Lua** scripting for Roblox exploit testing and anti-exploit systems  
+> 🖥️ Low-level programming in **MIPS Assembly** and **VHDL** for hardware simulation  
 
 ---
 
 ## 🚀 Featured Projects
-- [**Hexville Heroes**](https://github.com/AspenXIV) – Unity-based third-person melee game project  
+- [**Hexville Heroes**](https://github.com/AspenXIV/HexvilleHeroes) – Unity-based third-person melee game project  
 
 ---
 
