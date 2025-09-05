@@ -7,7 +7,7 @@
 ## ✨ About Me
 I’m a 27-year-old **self-taught coder** with over **6 years of experience** learning and experimenting with **Lua**, **C#**, and **HTML/CSS** outside of schooling.  
 My journey started as a hobby, scripting and building projects on Roblox and tinkering with small game prototypes.  
-Now, as a **Game Development student** at Full Sail University, I’m focused on learning new skills and turning my passion for software development into a career.
+Now, as a **Game Development student** at Full Sail University, I’m focused on learning new skills and turning my passion for software development/game development into a career.
 
 - 🎓 **Student** at Full Sail University — Game Development Program  
 - 🪖 **Veteran** of the U.S. Air Force with a **Network Management** background  
