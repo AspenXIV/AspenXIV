@@ -41,9 +41,9 @@ Now, as a **Game Development student** at Full Sail University, I’m focused on
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AspenXIV&show_icons=true&theme=radical" alt="Aspen's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AspenXIV&show_icons=true&theme=radical&cache_seconds=1" alt="Aspen's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AspenXIV&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AspenXIV&theme=radical&date_format=j%20M%5B%20Y%5D&v=2" alt="GitHub Streak Stats" />
 </p>
 
 ---
