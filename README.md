@@ -29,7 +29,7 @@ Now, as a **Game Development student** at Full Sail University, I’m focused on
 
 > **Focusing on**:  
 > 🎮 Game development with **Unity (C#)** and **C++**  
-> 🕹️ **Lua** scripting for Roblox exploit testing and anti-exploit systems  
+> 🕹️ **Lua** scripting for Roblox anti-exploit systems  
 > 🖥️ Low-level programming in **MIPS Assembly** and **VHDL** for hardware simulation  
 
 ---
