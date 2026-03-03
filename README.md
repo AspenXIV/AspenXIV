@@ -50,7 +50,7 @@ Now, as a **Game Development student** at Full Sail University, I’m focused on
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/aspen-newman-dev/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aspen-newman-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="[https://discord.gg](https://discord.com/users/132082219773591552)"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
