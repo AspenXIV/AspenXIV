@@ -13,7 +13,7 @@ Now, as a **Game Development student** at Full Sail University, I’m focused on
 - 🪖 **Veteran** of the U.S. Air Force with a **Network Management** background  
 - 💻 Passionate about **software development**, **game design**, and **Roblox scripting**  
 - 🌱 Currently learning **Vulkan API**, **C++**, **Lua**, and **MIPS Assembly**  
-- 🐾 Just a silly puppy with big dreams in tech and game dev~  
+- 🐾 Just a gamer with big dreams in tech and game dev~  
 
 ---
 
